@@ -1,0 +1,5 @@
+<resources>
+    <string name="mainpage">便签</string>
+    <string name="newpage">新建便签</string>
+    <string name="changepage">修改便签</string>
+</resources>
